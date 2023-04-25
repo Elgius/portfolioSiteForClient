@@ -13,25 +13,14 @@ const Me = () => {
 
         <div className="shadow-xl shadow-blue-300 my-8 px-8">
           <p className="py-4 max-w-2xl mx-auto">
-            Nepenthe above my pallas of rapping guessing shore. Then chamber
-            midnight nevermore nevermore. Dared pallas nothing door me oer
-            myself so, name streaming door back beguiling was unseen at,
-            evilprophet is than burden little the and me at, there above heaven
-            in more no, nevermore sinking fowl the door oer.
-          </p>
-          <p className="py-4 max-w-2xl mx-auto">
-            Nepenthe above my pallas of rapping guessing shore. Then chamber
-            midnight nevermore nevermore. Dared pallas nothing door me oer
-            myself so, name streaming door back beguiling was unseen at,
-            evilprophet is than burden little the and me at, there above heaven
-            in more no, nevermore sinking fowl the door oer.
-          </p>
-          <p className="py-4 max-w-2xl mx-auto">
-            Nepenthe above my pallas of rapping guessing shore. Then chamber
-            midnight nevermore nevermore. Dared pallas nothing door me oer
-            myself so, name streaming door back beguiling was unseen at,
-            evilprophet is than burden little the and me at, there above heaven
-            in more no, nevermore sinking fowl the door oer.
+            My name is Darmin A/L Raja
+            and i am university student
+            persuing an Electircal and
+            Electronics Degree in Asia
+            Pacific University. Please
+            take a look at this resume of
+            mine and please feel free to
+            contact for clarification
           </p>
         </div>
 

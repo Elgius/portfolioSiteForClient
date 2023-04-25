@@ -12,14 +12,12 @@ const HomePage = () => {
           <Image src={heroImage} alt="me" />
         </div>
 
-        <h1 className="uppercase font-bold text-gray-700 text-7xl">
-          back end developer
+        <h1 className="uppercase font-bold text-gray-700 text-5xl">
+          Elecrical and Electronics Engineer
         </h1>
 
         <p className="text-gray-600 text-xl max-w-sm mx-auto">
-          I have 8 years of experience building and desgining software.
-          Currently, I love to work on web application using technologies like
-          React, Tailwind, Next JS and GraphQL.
+          I am a Electronics and Electrical engineer with a dream of using my skills and knowledge to make a difference in the lives of people around me!
         </p>
 
         <Link href="/#me">
